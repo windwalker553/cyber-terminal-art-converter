@@ -36,7 +36,7 @@ This project is licensed under the MIT License.
 
 | Original Image | ASCII Art Result |
 | :---: | :---: |
-| <img src="./assets/rei.jpg" width="400"> | <img src="./assets/processed_rei.jpg" width="400"> |
+| <img src="./assets/rei.jpg" width="400"> | <img src="./assets/processed_rei .jpg" width="400"> |
 
 *Main page of the application:*
 <img src="./assets/mainPage.png" width="800">
