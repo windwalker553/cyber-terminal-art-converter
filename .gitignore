@@ -1,0 +1,15 @@
+# Игнорируем бинарники и библиотеки в bin
+bin/*.exe
+bin/*.dll
+bin/*.pdb
+
+# Игнорируем временные файлы обработки (но оставляем сами папки)
+results/*
+uploads/*
+!results/.gitkeep
+!uploads/.gitkeep
+
+# Игнорируем логи и системные файлы
+log.txt
+.idea/
+.vscode/
