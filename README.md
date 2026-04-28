@@ -30,3 +30,13 @@ A high-performance image-to-ASCII converter with a Go-based HTTP server and a po
 
 ## 📄 License
 This project is licensed under the MIT License.
+
+## 🖼 Result Example
+
+
+| Original Image | ASCII Art Result |
+| :---: | :---: |
+| <img src="./assets/rei.jpg" width="400"> | <img src="./assets/processed_rei.jpg" width="400"> |
+
+*Main page of the application:*
+<img src="./assets/mainPage.png" width="800">
