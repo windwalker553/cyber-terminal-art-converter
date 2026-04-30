@@ -56,8 +56,8 @@ void ProcessAscii(const std::string& inputPath, const std::string& outputPath)
 
     // Characters sorted by visual density
     const std::string chars = "@%#*+=-:. ";
-    float stepX = 1.9;
-    float stepY = 3.8;
+    float stepX = 2;
+    float stepY = 4;
 
     // Process image by cells
     for (int y = stepY; y < colorImg.rows; y += stepY)
